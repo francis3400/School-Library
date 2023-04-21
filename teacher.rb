@@ -4,6 +4,7 @@ class Teacher < Person
     super(age, _name = 'Unknown', _parent_permission: true)
     @specialization = specialization
   end
+
   def can_use_services?
     true
   end
