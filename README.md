@@ -60,7 +60,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
- git clone git@github.com:PeteUgwu/School-library.git
+ git clone https://github.com/francis3400/School-Library.git
 ```
 
 ### Install
@@ -98,7 +98,7 @@ To run tests, run the following command:
 ## 👥 Author <a name="authors"></a>
 
 <!-- > Mention all of the collaborators of this project. -->
-👤 **Peter Ugwu**
+👤 **Francis Uche**
 
 - GitHub: [@Francis3400](https://github.com/francis3400)
 - Twitter: [@FrancisBlinkz](https://twitter.com/francisblinkz)
